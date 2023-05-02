@@ -9,7 +9,7 @@
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#observacoes">Observações</a> •
+  <a href="#observações">Observações</a> •
 </p>
 
 ---
@@ -35,4 +35,5 @@ Proteção veicular - Backend que permite o cadastro de clientes, veiculos, cons
 ## Observações
 
 Sistema incompleto.
+
 ---
